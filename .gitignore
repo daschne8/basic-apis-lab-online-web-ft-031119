@@ -43,3 +43,7 @@ jspm_packages
 /log/*
 !/log/.keep
 /tmp
+
+# API codes
+/config/local_env
+
